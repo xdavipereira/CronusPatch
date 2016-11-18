@@ -4,8 +4,7 @@ Cronus Ragnarok Patch
 
 ===============
 #### Instalação:
-###### Mova o arquivo data.grf e a pasta BGM para o dentro dessa pasta de arquivos 
-       que será criada quando fazer o download desses arquivos.
+###### Mova o arquivo data.grf e a pasta BGM para o dentro dessa pasta de arquivos que será criada quando fazer o download desses arquivos.
 
 ===============
 #### Cronus Emulador:
